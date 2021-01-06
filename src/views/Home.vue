@@ -22,7 +22,7 @@
           <div class="ml-3 inline-flex rounded-md shadow">
             <a
               target="_blank"
-              href="https://github.com/web2033/vite-vue3-tailwind-starter"
+              href="https://tailwindcss.com/"
               class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-indigo-600 bg-white hover:text-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out"
               >Learn more</a
             >
